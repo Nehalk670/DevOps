@@ -7,7 +7,7 @@ public class MathOperations {
         
         
         int sum = num1 + num2;         
-        int difference = num1 - num2
+        int difference = num1 - num
         int product = num1 * num2;       
         
               double quotient = (double) num1 / num2; 
@@ -20,3 +20,4 @@ public class MathOperations {
     }
 
 }
+
