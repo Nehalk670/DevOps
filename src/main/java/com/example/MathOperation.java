@@ -1,6 +1,6 @@
 package com.example;
 
-public class MathOperations {
+public class MathOperation {
 
     public static void main(String[] args) {
         
